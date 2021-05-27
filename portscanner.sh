@@ -2,6 +2,6 @@
 
 
 
-cd Wireless-Attack
+echo "cd Wireless-Attack";
 
-echo "python3 Wifi-Hacking.py"
+echo "python3 Wifi-Hacking.py";
